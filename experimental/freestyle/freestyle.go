@@ -36,4 +36,11 @@ func main() {
 			fmt.Println(index, "odd")
 		}
 	}
+
+	// divisibleBy2 := func(integer int) {
+	// 	switch {
+	// 	case integer%2 == 0:
+	// 		fmt.Println("even")
+	// 	}
+	// }
 }
